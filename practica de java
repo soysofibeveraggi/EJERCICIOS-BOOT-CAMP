@@ -1,0 +1,15 @@
+public class Main {
+
+    public static void main(String [] args) {
+        int param1 = 10; // 4 bytes
+        int param2 = 30; // 4 bytes
+
+        suma (param1, param2);
+
+        System.out.println(a);
+    }
+
+    public static void suma(int a, int b) {
+        System.out.println(a + b);
+    }
+}
